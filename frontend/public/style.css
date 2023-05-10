@@ -1,0 +1,24 @@
+/* navbar */
+.nav-container {
+  background-color: black;
+  padding: 5px 0;
+  color: white;
+  text-align: center;
+}
+.search-form {
+  text-align: -webkit-center;
+}
+.search-input {
+  width: 300px;
+}
+/* images  */
+.images-container {
+  margin: 10px 0;
+}
+.loading {
+  text-align: center;
+  margin: 10px 0;
+}
+.photos {
+  max-height: 450px;
+}
